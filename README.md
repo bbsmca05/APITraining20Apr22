@@ -1,1 +1,1 @@
-# APITraining20Apr22
+This is Training for API automation development, welcome to this course
